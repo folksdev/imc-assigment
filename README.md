@@ -2,7 +2,7 @@
 
 ---
 
-###Problem
+### Problem
 Paper-Rock-Scissors is a game for two players. Each player simultaneously opens his/her hand to display
 a symbol:
 
